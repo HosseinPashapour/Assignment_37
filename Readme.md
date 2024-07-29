@@ -36,12 +36,6 @@ Run following commend :
 ```
 pip install -r requirments.txt
 ```
-## How to Run
-Execute this command in terminal :
-```
-jupyter nbconvert --to script Machine_Learning.ipynb
-```
-
 
 -----------------------------------------
 
@@ -57,11 +51,6 @@ In the matplotlib section, I engaged in exercises that covered:
 Run following commend :
 ```
 pip install -r requirments.txt
-```
-## How to Run
-Execute this command in terminal :
-```
-jupyter nbconvert --to script Matplotlib.ipynb
 ```
 
 ## Sample Results
