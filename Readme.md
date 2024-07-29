@@ -42,14 +42,7 @@ Execute this command in terminal :
 jupyter nbconvert --to script Machine_Learning.ipynb
 ```
 
-## Sample Results
-Confusion Matrix  
-<img src="Output\Explode.png" width="450">
 
-Decision tree   
-<img src="Output\Matplotlib Adding Grid Lines.png" width="450">
-
-<img src="Output\output.png" width="450">
 -----------------------------------------
 
 ## Matplotlib
@@ -72,11 +65,13 @@ jupyter nbconvert --to script Matplotlib.ipynb
 ```
 
 ## Sample Results
-Combine Color Size and Alpha  
-<img src="Output\Combine Color Size and Alpha.png" width="450">
+ 
+<img src="Output\Explode.png" width="450">
 
-Matplotlib Pie Charts  
-<img src="Output\Matplotlib Pie Charts.png" width="450">
+ 
+<img src="Output\Matplotlib Adding Grid Lines.png" width="450">
+
+<img src="Output\output.png" width="450">
 
 
 -----------------------------------------
