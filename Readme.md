@@ -44,12 +44,12 @@ jupyter nbconvert --to script Machine_Learning.ipynb
 
 ## Sample Results
 Confusion Matrix  
-<img src="Output\Confusion Matrix.png" width="450">
+<img src="Output\Explode.png" width="450">
 
 Decision tree   
-<img src="Output\Decision tree.png" width="450">
+<img src="Output\Matplotlib Adding Grid Lines.png" width="450">
 
-
+<img src="Output\output.png" width="450">
 -----------------------------------------
 
 ## Matplotlib
